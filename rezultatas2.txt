@@ -1,0 +1,16 @@
+A masyvo elementai: 5
+A masyvas:
+5 7 8 9 6 
+A masyvo maksimali reiksme: 
+9
+A masyvo minimali reiksme: 
+5
+B masyvo elementai: 6
+B masyvas:
+2 1 4 7 8 10 
+B masyvo maksimali reiksme: 
+10
+B masyvo minimali reiksme: 
+1
+C masyvas:
+7 8 6 2 4 7 8 
